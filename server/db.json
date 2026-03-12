@@ -1,40 +1,53 @@
 {
-  "learnhttp": [
+  "learnhttp": [],
+  "journals": [
     {
-      "id": "38a5",
-      "content": "Olá Mundo"
+      "id": "b2930890-1e0b-11f1-92e8-05a0dc54e628",
+      "content": "teste",
+      "created_at": "2026-03-05 09:04:03.483843",
+      "updated_at": "2026-03-05 09:04:03.483843"
     },
     {
-      "id": "92c9",
-      "content": "Olá Mundo"
+      "id": "27824780-1e37-11f1-9a1b-d55cc615b8f0",
+      "content": "Edson ",
+      "created_at": "2026-03-07 14:16:01.216855",
+      "updated_at": "2026-03-07 14:16:01.216855"
     },
     {
-      "id": "75a0",
-      "content": "Olá Mundo"
+      "id": "6178bae0-1e38-11f1-9437-55cbc51a6ca8",
+      "content": "Jesus ",
+      "created_at": "2026-03-02 14:24:47.478069",
+      "updated_at": "2026-03-02 14:24:47.478069"
     },
     {
-      "id": "56d2",
-      "content": "Olá Mundo"
+      "id": "6c2aeb70-1e38-11f1-9437-55cbc51a6ca8",
+      "content": "Senhor ",
+      "created_at": "2026-03-02 14:24:47.478069",
+      "updated_at": "2026-03-02 14:24:47.478069"
     },
     {
-      "id": "5f25",
-      "content": "Olá Mundo"
+      "id": "7fe8c880-1e38-11f1-ae51-bd95964cfabb",
+      "content": "Jesus Cristo",
+      "created_at": "2026-03-05 14:25:36.294370",
+      "updated_at": "2026-03-05 14:25:36.294370"
     },
     {
-      "id": "3baa",
-      "content": "Olá Mundo"
+      "id": "8a9ec9a0-1e38-11f1-ae51-bd95964cfabb",
+      "content": "Benvindo ",
+      "created_at": "2026-03-02 14:25:36.294370",
+      "updated_at": "2026-03-02 14:25:36.294370"
     },
     {
-      "id": "8ac6",
-      "content": "Olá Mundo"
+      "id": "9187bd30-1e38-11f1-ae51-bd95964cfabb",
+      "content": "Eva",
+      "created_at": "2026-03-03 14:25:36.294370",
+      "updated_at": "2026-03-03 14:25:36.294370"
     },
     {
-      "id": "098c",
-      "content": "Olá Mundo"
-    },
-    {
-      "id": "eaef",
-      "content": "Olá Mundo"
+      "id": "742806c0-1e3b-11f1-a64a-69ab841b334e",
+      "content": "Terminei o curso de flutte",
+      "created_at": "2026-03-10 14:46:40.952644",
+      "updated_at": "2026-03-10 14:46:40.952644"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
